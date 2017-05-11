@@ -1,0 +1,100 @@
+[
+  {
+    "titre":"Agassi",
+    "realisateur": "Chan-Wook Park",
+    "duree": "02:25",
+    "seances":[
+      {
+        "date": "2016-05-14",
+        "heure": "08:30",
+        "salle": "Debussy",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-14",
+        "heure": "08:30",
+        "salle": "Lumière",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-14",
+        "heure": "22:00",
+        "salle": "Lumière",
+        "high": false,
+        "book": 0
+      }
+    ]
+  },
+  {
+    "titre":"The BFG",
+    "realisateur": "Steven Spielberg",
+    "duree": "01:55",
+    "seances":[
+      {
+        "date": "2016-05-14",
+        "heure": "11:45",
+        "salle": "Lumière",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-14",
+        "heure": "19:00",
+        "salle": "Lumière",
+        "high": true,
+        "book": 0
+      }
+    ]
+  },
+  {
+    "titre":"Mal de pierres",
+    "realisateur": "Nicole Garcia",
+    "duree": "02:00",
+    "seances":[
+      {
+        "date": "2016-05-15",
+        "heure": "08:30",
+        "salle": "Debussy",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-15",
+        "heure": "08:30",
+        "salle": "Lumière",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-15",
+        "heure": "11:30",
+        "salle": "Lumière",
+        "high": false,
+        "book": 0
+      },
+      {
+        "date": "2016-05-15",
+        "heure": "19:30",
+        "salle": "Lumière",
+        "high": true,
+        "book": 0
+      }
+    ]
+  },
+  {
+    "titre":"American Honey",
+    "realisateur": "Andrea Arnold",
+    "duree": "02:42",
+    "seances":[
+      {
+        "date": "2016-05-15",
+        "heure": "15:30",
+        "salle": "Lumière",
+        "high": true,
+        "book": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "date" : "2016-05-14",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 0,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 0,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 1,
+            "heure": "11:45",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": false,
+            "heure": "13:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": false,
+            "heure": "15:00",
+            "high": false
+          },
+          {
+            "creneau" : 5,
+            "id_film": 1,
+            "heure": "19:00",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 0,
+            "heure": "22:00",
+            "high": false
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-15",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 2,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 2,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 2,
+            "heure": "11:30",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": 4,
+            "heure": "12:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": 3,
+            "heure": "15:30",
+            "high": true
+          },
+          {
+            "creneau" : 5,
+            "id_film": 2,
+            "heure": "19:30",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": false,
+            "heure": "22:00",
+            "high": false
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-16",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 5,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 5,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 5,
+            "heure": "11:30",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": false,
+            "heure": "13:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": 6,
+            "heure": "16:00",
+            "high": true
+          },
+          {
+            "creneau" : 5,
+            "id_film": 5,
+            "heure": "19:00",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 7,
+            "heure": "22:00",
+            "high": false
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-17",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 8,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 8,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 9,
+            "heure": "11:00",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": 8,
+            "heure": "13:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": 10,
+            "heure": "16:00",
+            "high": false
+          },
+          {
+            "creneau" : 5,
+            "id_film": 8,
+            "heure": "19:30",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 9,
+            "heure": "22:00",
+            "high": false
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-18",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 11,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 11,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 12,
+            "heure": "11:30",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": false,
+            "heure": "13:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": 13,
+            "heure": "16:00",
+            "high": false
+          },
+          {
+            "creneau" : 5,
+            "id_film": 11,
+            "heure": "19:00",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 12,
+            "heure": "22:00",
+            "high": false
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-19",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 14,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 14,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 15,
+            "heure": "11:00",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": 14,
+            "heure": "14:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": false,
+            "heure": "15:00",
+            "high": false
+          },
+          {
+            "creneau" : 5,
+            "id_film": 14,
+            "heure": "18:30",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 15,
+            "heure": "22:00",
+            "high": true
+          },
+          {
+            "creneau" : 7,
+            "id_film": 16,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date" : "2016-05-20",
+    "salles" : [
+      {
+        "seance_debussy":[
+          {
+            "creneau" : 1,
+            "id_film": 17,
+            "heure": "08:30",
+            "high": false
+          }
+        ]
+      },
+      {
+        "seances_lumiere":[
+          {
+            "creneau" : 1,
+            "id_film": 17,
+            "heure": "08:30",
+            "high": false
+          },
+          {
+            "creneau" : 2,
+            "id_film": 18,
+            "heure": "12:00",
+            "high": false
+          },
+          {
+            "creneau" : 3,
+            "id_film": false,
+            "heure": "13:30",
+            "high": false
+          },
+          {
+            "creneau" : 4,
+            "id_film": 17,
+            "heure": "15:30",
+            "high": false
+          },
+          {
+            "creneau" : 5,
+            "id_film": 17,
+            "heure": "19:00",
+            "high": true
+          },
+          {
+            "creneau" : 6,
+            "id_film": 18,
+            "heure": "22:30",
+            "high": true
+          },
+          {
+            "creneau" : 7,
+            "id_film": false,
+            "heure": "23:59",
+            "high": false
+          }
+        ]
+      }
+    ]
+  }
+]

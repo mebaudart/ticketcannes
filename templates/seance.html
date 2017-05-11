@@ -1,0 +1,15 @@
+<div ng-repeat="salles in jour.salles">
+    <div class="container-seances" ng-repeat="seances in salles">
+        <div class="seance-info" ng-class="{'reserved': seance.book == 'reserved', 'blocked': seance.book == 'blocked', 'high': seance.high, 'empty': seance.id_film === false}" ng-repeat="seance in seances | orderBy: 'creneau'" ng-click="ctrl.selectFilm(seance)">
+            <div class="titre">{{ctrl.films[seance.id_film].titre}}</div>
+            <div class="realisateur">{{ctrl.films[seance.id_film].realisateur}}</div>
+            <div class="info">
+                <div class="horaire">{{seance.heure}}</div>
+                <div class="dispo taken" ng-show="seance.book == 'reserved'">Demandé</div>
+                <div class="dispo blocked" ng-show="seance.book == 'blocked'">Film demandé</div>
+                <div class="dispo free" ng-show="!seance.book">Demander</div>
+                <div ng-class="{'high_on': seance.high}"></div>
+            </div>
+        </div>
+    </div>
+</div>
